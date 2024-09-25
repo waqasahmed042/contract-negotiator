@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Compiled output
+dist/
+
+.DS_config
+.DS_store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
